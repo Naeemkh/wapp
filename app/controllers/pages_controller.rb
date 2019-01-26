@@ -6,4 +6,9 @@ class PagesController < ApplicationController
   def abput
     #render 'about.html.erb'
   end
+
+  def nkhshnvs
+    # render 'nkhshnvs.html.erb
+  end
+
 end
